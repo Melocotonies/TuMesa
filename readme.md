@@ -36,7 +36,7 @@ Todo mi código se encuentra dentro de las carpetas **app** y **public**, el res
 
 ### Documentación
 
-Si quieres saber más sobre el proyecto, aquí lo puedes ver la [documentación](http://oa.upm.es/39946/) publicada.
+Si quieres saber más sobre el proyecto, aquí puedes ver la [documentación](http://oa.upm.es/39946/) publicada.
 
 
 
