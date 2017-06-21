@@ -1,26 +1,49 @@
+## TuMesa (English)
+
+This is the grad project I made in 2015 for my degree in Software Engineering. 
+It is not a final product, it is a prototype of a web application to manage restaurants bookings.
+
+All my code is inside the folders **app** and **public**, the rest is code from the frameworks I used like Laravel or Bootstrap.
+
+### Features
+
+* Register and Log in as a client or a restaurant.
+* Search for restaurants registered on this website.
+* See restaurant contact details and menu, rate, comment and book a table.
+* Customize your restaurant website.
+* Manage your bookings and see clients' contact information to cancel or change bookings.
+
+### Documentation
+
+If you want to know more, here you can find the [documentation](http://oa.upm.es/39946/).
+
+
+## TuMesa (Spanish)
+
+Este es el proyecto final del grado en Ingeniería del Software que hice en 2015.
+No es un producto acabado, es sólo un prototipo de una aplicación web para la gestión de restaurantes.
+
+Todo mi código se encuentra dentro de las carpetas **app** y **public**, el resto es código de los frameworks que he usado como Laravel o Bootstrap.
+
+### Características
+
+* Registro y log in como cliente o restaurante.
+* Buscar restaurantes que estén registrados dentro de esta web.
+* Ver los datos de contacto y el menú de los restaurantes, valorarlos, comentar y reservar una mesa.
+* Personalizar tu página de restaurante.
+* Gestionar tus reservas y ver datos de contacto de los clientes para cancelar o cambiar las reservas.
+
+
+### Documentación
+
+Si quieres saber más sobre el proyecto, aquí lo puedes ver la [documentación](http://oa.upm.es/39946/) publicada.
+
+
+
 ## Laravel PHP Framework
 
-[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
-[![Total Downloads](https://poser.pugx.org/laravel/framework/downloads.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
-[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
 [![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, and caching.
-
-Laravel aims to make the development process a pleasing one for the developer without sacrificing application functionality. Happy developers make the best code. To this end, we've attempted to combine the very best of what we have seen in other web frameworks, including frameworks implemented in other languages, such as Ruby on Rails, ASP.NET MVC, and Sinatra.
-
-Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
-
-## Official Documentation
-
-Documentation for the entire framework can be found on the [Laravel website](http://laravel.com/docs).
-
-### Contributing To Laravel
-
-**All issues and pull requests should be filed on the [laravel/framework](http://github.com/laravel/framework) repository.**
 
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-# TuMesa
