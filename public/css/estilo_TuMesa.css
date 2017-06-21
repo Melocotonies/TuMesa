@@ -1,0 +1,114 @@
+@import url(//fonts.googleapis.com/css?family=Lato:700);
+
+html, body {
+    margin: auto;
+    padding: 0;
+    height: 100%;
+    font-family:'Lato', sans-serif;
+    color: #999;
+    /*min-width: 1035px;*/
+    min-width: 1086px;
+}
+
+a{
+    text-decoration:none;
+    color: darkturquoise;
+}
+
+h1{
+    font-size: 25px;
+    margin: 0; 
+}
+
+h2{
+    font-size: 20px;
+    color: #999;
+}
+
+.ui.inverted.menu a.item{
+    color: darkturquoise;
+    font-weight: normal;
+}
+
+.ui.inverted.menu a.item:hover, a.item:hover{
+    color: white;
+    background-color: transparent;
+}
+
+.item.buscador{
+    margin-left: 295px;
+}
+
+.ui.menu:not(.vertical) .item>.input{
+    width:139%;
+}
+
+.tituloModal{
+    color:darkturquoise;
+}
+
+.wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+#header {
+    margin:0 175px 0 90px;
+}
+
+#contenido {
+    padding: 10px;
+    padding-bottom: 108px;
+    margin: 0 90px;
+}
+
+.centrado{
+    margin:auto;
+    width:664px;
+}
+
+#footer {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    text-align: center;
+}
+
+.formMessage{
+    display:none;
+    margin:34px;
+}
+
+.ui.message{
+    margin-top:-15px;
+}
+
+.botonFormulario{
+    text-align: center;
+}
+
+.close.icon{
+    float: right;
+}
+
+.label.tituloRestaurante{
+    height: 33px;
+    width: 100%;
+    margin: auto;
+    padding: 12px;
+    text-align:center;
+}
+
+.right.menu.restaurante{
+    margin-top: 5px;
+    margin-right: -187px;
+}
+
+.item.logout{
+    margin-right: 28px;
+}
+
+.ui.icon.button.menu{
+    padding:15px;
+}
