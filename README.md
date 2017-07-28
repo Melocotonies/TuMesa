@@ -37,13 +37,3 @@ Todo mi código se encuentra dentro de las carpetas **app** y **public**, el res
 ### Documentación
 
 Si quieres saber más sobre el proyecto, aquí puedes ver la [documentación](http://oa.upm.es/39946/) publicada.
-
-
-
-## Laravel PHP Framework
-
-[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
-
-### License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
